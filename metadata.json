@@ -1,0 +1,6 @@
+{
+  "name": "SnapFloat",
+  "description": "Floating quick screen capture tool with persistent overlay button, MediaProjection support, and screenshot gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
